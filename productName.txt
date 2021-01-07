@@ -1,0 +1,16 @@
+1.Telephones
+2.Televisions
+3.Laptops
+
+1.Telephones
+1.1iPhone11 699$ in Stock (7)
+1.2 Xiaomi Redmi Note 9 249$ in Stock (4)
+1.3 Samsung Galaxy A71 239$ in Stock (9)
+2.Televisions
+2.1 Vestel 65U9500 749$ in stock (10)
+2.2 LG 75NANO906NA 190 2199$ in stock(2)
+2.3 Philips The One 899$ in stock(10)
+3.Laptops
+3.1 Lenovo IdeaPad L3 899$ in stock (10)
+3.2 Apple MacBook Air 999$ in stock (10)
+3.3 Asus Vivobook 15 1199$ in stock (8)
